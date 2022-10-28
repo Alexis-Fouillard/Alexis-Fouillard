@@ -11,7 +11,7 @@
 
 - 👯 Je cherche une reconversion **dans le civil**
 
-- 👨‍💻 Mes projets sojt dispos sur [Gitlab](Gitlab)
+- 👨‍💻 Mes projets sont dispos sur [Gitlab](Gitlab)
 
 - 💬 Parlez moi de **JS (Angular, Node), Java, J2EE, Drupal, PHP**
 
